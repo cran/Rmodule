@@ -1,0 +1,12 @@
+8de1268aedb9806a7e9a920c7c34c827 *COPYING
+e65b5cc97b16f8c2764a62476833d752 *DESCRIPTION
+56a84bbfe0bec74627d82cf0cd7686cd *NAMESPACE
+e1e53746190c512858bdaff7c2d40714 *R/RcppExports.R
+76a6faa17cd89e4d4600148bd44b7cc7 *R/Rmodule.R
+447d950eb5a775abc0a5075ade70224f *R/zzz.R
+b3a2458744c04adca61f9408faf1c1b0 *inst/doc/Rmodule.pdf
+fde4097dca91404e82738795dd79a631 *man/update_R.Rd
+e62585629948e7dd143efbad43c2a6eb *src/Makevars
+e62585629948e7dd143efbad43c2a6eb *src/Makevars.win
+7b84bbd2bca7e4b755c4aa051cc47dc1 *src/RcppExports.cpp
+8cdac499849bf680561dd9446d0f781d *src/Rmodule.cpp
